@@ -1,0 +1,15 @@
+{
+  "name": "lighthouse-task",
+  "version": "1.0.0",
+  "main": "LighthouseTask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lighthouse": "^12.0.0",
+    "puppeteer": "^22.8.0"
+  }
+}
